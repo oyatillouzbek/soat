@@ -15,4 +15,4 @@ while True:
     first_name=str(x),
     about="O'zbekistonda soat: " +str(x)
     ))
-    time.sleep(30)
+    time.sleep(15)
